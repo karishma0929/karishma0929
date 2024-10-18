@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/karishma0929/karishma0929/blob/main/github%20banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Karishma Shaik</h1>
 <h3 align="center">A passionate Full-stack developer!</h3>
 
