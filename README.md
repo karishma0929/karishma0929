@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma0929&label=Profile%20views&color=0e75b6&style=flat" alt="karishma0929" /> </p>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🌱 I’m currently learning **2nd year**
+- 🌱 I’m currently learning **2nd year B-Tech**
 
 - 📫 How to reach me **ks5359821@gmail.com**
 
