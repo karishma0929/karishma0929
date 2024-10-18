@@ -1,9 +1,9 @@
-
+![logo]()
 <h1 align="center">Hi 👋, I'm Karishma Shaik</h1>
 <h3 align="center">A passionate Full-stack developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma0929&label=Profile%20views&color=0e75b6&style=flat" alt="karishma0929" /> </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/karishma0929/karishma0929/blob/main/isometric-computer.gif?raw=true">
 
 - 🌱 I’m currently learning **2nd year**
 
